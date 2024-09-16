@@ -1,6 +1,6 @@
 # NP-Simulations
 
-This repository contains the simulation code and results accompanying the paper "Magnetic Control of Nanoparticle Flow Through Nanoscale Barriers". The codebase implements a comprehensive simulation framework for analyzing magnetic nanoparticle behavior under complex magnetic field configurations.
+This repository contains the simulation code and results accompanying the paper ["Magnetic Control of Nanoparticle Flow Through Nanoscale Barriers"](https://drive.google.com/file/d/1mYF5zZKjF_k2BiV77o-xLh408q3CE_G-/view?usp=sharing). The codebase implements a comprehensive simulation framework for analyzing magnetic nanoparticle behavior under complex magnetic field configurations.
 
 ## Technical Details
 
